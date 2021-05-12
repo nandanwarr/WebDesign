@@ -19,12 +19,12 @@ p1 {
   font-family: fantasy, copperplate, papyrus;
   color: #BDFF1C;
   border-style: dotted; 
-  border: #B507F4;
+  border-color: #B507F4;
 }
 p2 {
   font-family: fantasy, copperplate, papyrus;
   color: #0EE0BE;
   border-style: dashed; 
-  border: #E08467;
+  border-color: #E08467;
 }
 
