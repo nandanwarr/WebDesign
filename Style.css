@@ -1,6 +1,5 @@
 body {
-  
-  
+  background-color: #F3A2FA;
 }
 h1 {
   font-family: Monospace, Courier New, Monaco;
@@ -14,17 +13,15 @@ h2 {
   color: #F213D8; 
   font-weight: Light;
   font-style: italic; 
+  border-style: dotted; 
+  border-color: #B507F4;
 }
 p1 {
   font-family: fantasy, copperplate, papyrus;
   color: #BDFF1C;
-  border-style: dotted; 
-  border-color: #B507F4;
 }
 p2 {
   font-family: fantasy, copperplate, papyrus;
   color: #0EE0BE;
-  border-style: dashed; 
-  border-color: #E08467;
 }
 
