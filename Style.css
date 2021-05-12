@@ -1,5 +1,18 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: rgb(74,112,237,); 
-  h1, h2 { color: #F5A64E }
-  p { color: #02DEAE }
+  background-color: #3D1CF5;
+  
+}
+h1 {
+  font-family: sans-serif;
+  color: yellow; 
+  font-weight: bold;
+}
+h2 {
+  font family: Arial; 
+  color: #F213D8; 
+  font-weight: Light;
+}
+p {
+  color: #BDFF1C;
+}
+
