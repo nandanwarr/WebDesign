@@ -3,16 +3,27 @@ body {
   
 }
 h1 {
-  font-family: sans-serif;
+  font-family: Monospace, Courier New, Monaco;
   color: yellow; 
   font-weight: bold;
+  font-style: oblique;
 }
 h2 {
-  font family: Arial; 
+  font family: Arial, Helvetica, sans-serif;
   color: #F213D8; 
   font-weight: Light;
+  font-style: italic; 
 }
 p {
+  font:
   color: #BDFF1C;
 }
 
+<!-- use two different fonts +
+use 2 different font colors +
+at least one visible border
+at least two images attached - not by link
+at least one link
+at least one bold text +
+at least one italicized text +
+insert provided image -->
