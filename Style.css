@@ -21,5 +21,10 @@ p {
   border-style: dotted; 
   border: #B507F4;
 }
-
+p2 {
+  font-family: fantasy, copperplate, papyrus;
+  color: #0EE0BE;
+  border-style: dashed; 
+  border: #E08467;
+}
 
