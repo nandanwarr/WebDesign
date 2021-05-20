@@ -1,1 +1,23 @@
-Doctype
+body {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+nav {
+  width: 100%;
+  margin: 20px 0;
+}
+nav ul {
+  width: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+nav ul li {
+  width: 33%
+  float: left;
+}
+nav ul li a {
+  display: block;
+  width: 100%;
+}
